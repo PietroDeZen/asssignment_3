@@ -1,0 +1,56 @@
+body{
+    font-family: sans-serif;
+}
+
+header,footer{
+    position:absolute;
+    background-color: black;
+    width:100%;
+    color:white;
+}*{
+    margin:0;
+    padding:0;
+}
+
+header h2{
+    position: absolute;
+    margin-top: 20px;
+    left: 1%;
+}
+header{
+    height: 10vh;
+}
+
+footer{
+    height: 15vh;
+    margin: bottom 0%;
+}
+
+footer h2{
+    position:absolute;
+    left:40%;
+    font-weight: 10%;
+    font-size: 14px;
+    margin-top: 7.5vh;
+}
+
+
+.nav{
+    position:absolute;
+    width:100%;
+}
+
+.nav a{
+    position:relative;
+    left: 80%;
+    top:25px;
+    color:white;
+    text-decoration: none;
+    margin-right:20px;
+}
+
+.img-background{
+    max-width: 100%;
+   }
+
+
